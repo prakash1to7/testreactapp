@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Welcome to REACT LEARNING by Self Learning PRAMSAMI
+          Welcome to REACT LEARNING by Self Learning PRAMSAMI10:16
         </p>
         <a
           className="App-link"
